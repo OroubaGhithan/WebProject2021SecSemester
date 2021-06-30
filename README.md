@@ -26,4 +26,8 @@ username : oro
 password : 1234
 
 
+## Website Content :
+1. Home page ![homePage](https://user-images.githubusercontent.com/68960893/123988691-e7c7fb80-d9d0-11eb-96f1-5d7368775f9b.PNG)
+
+
 
