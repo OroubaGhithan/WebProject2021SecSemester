@@ -29,5 +29,7 @@ password : 1234
 ## Website Content :
 1. Home page ![homePage](https://user-images.githubusercontent.com/68960893/123988691-e7c7fb80-d9d0-11eb-96f1-5d7368775f9b.PNG)
 
+1. AboutUs Page ![aboutus](https://user-images.githubusercontent.com/68960893/123990827-cd8f1d00-d9d2-11eb-8967-22370993061e.PNG)
+
 
 
