@@ -12,7 +12,10 @@ databasename : dbschema_1180881
 *DON'T FORGET TO CREATE A DATABASE NAMING "dbschema_1180881" AND IMPORT THE SQL FILE AND RUN.
 WITHOUT THE DATABASE THE PROJECT WON'T RUN.*
 
+## to run code type :
+index page is 1180881.php  
 
+localhost/webproject_1180881/1180881.php
 
 ## for admin login use :
 username : admin@store.ps  
